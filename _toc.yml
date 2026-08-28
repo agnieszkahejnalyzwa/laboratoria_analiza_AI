@@ -1,0 +1,79 @@
+format: jb-book
+root: README
+parts:
+  - caption: Semestr 1
+    chapters:
+      - file: Laboratoria/1/z1
+        title: Zadania projektowe
+        sections:
+          - file: Laboratoria/1/z1/Energetyk
+            title: Energetyk
+          - file: Laboratoria/1/z1/Witamina_X
+            title: Witamina X
+          - file: Laboratoria/1/z1/Zespolone
+            title: Liczby zespolone
+          - file: Laboratoria/1/z1/Zadanie_Fourier
+            title: Transformata Fouriera
+          - file: Laboratoria/1/z1/Rozniczkowanie_numeryczne
+            title: Różniczkowanie numeryczne
+          - file: Laboratoria/1/z1/Newton_2d
+            title: Metoda Newtona
+          - file: Laboratoria/1/z1/Newton_rozwiazane
+            title: "Metoda Newtona: rozwiązanie"
+          - file: Laboratoria/1/z1/Bisekcja
+            title: Metoda bisekcji
+          - file: Laboratoria/1/z1/Lagrange
+            title: Interpolacja Lagrange’a
+          - file: Laboratoria/1/z1/Powiadomienia
+            title: Projektowanie powiadomień
+      - file: Laboratoria/1/r1
+        title: Rozwiązania wzorcowe
+        sections:
+          - file: Laboratoria/1/r1/Energetyk_rozwiazane
+            title: Energetyk
+          - file: Laboratoria/1/r1/Witamina_X_rozwiazane
+            title: Witamina X
+          - file: Laboratoria/1/r1/Zespolone_rozwiazane
+            title: Liczby zespolone
+          - file: Laboratoria/1/r1/Zadanie_Fourier_rozwiazane
+            title: Transformata Fouriera
+          - file: Laboratoria/1/r1/Rozniczkowanie_numeryczne_rozwiazane
+            title: Różniczkowanie numeryczne
+          - file: Laboratoria/1/r1/Bisekcja_rozwiazane
+            title: Bisekcja
+          - file: Laboratoria/1/r1/Lagrange_rozwiazane
+            title: Interpolacja Lagrange’a
+          - file: Laboratoria/1/r1/Powiadomienia_rozwiazane
+            title: Projektowanie powiadomień
+  - caption: Semestr 2
+    chapters:
+      - file: Laboratoria/2/z2
+        title: Zadania projektowe
+        sections:
+          - file: Laboratoria/2/z2/EKG
+            title: "Cyfrowe badanie serca: EKG"
+          - file: Laboratoria/2/z2/GradientDescent
+            title: Spadek gradientu
+          - file: Laboratoria/2/z2/RegresjaLogistyczna_Backpropagation
+            title: Budowa sztucznej inteligencji
+          - file: Laboratoria/2/z2/RynekNieruchomosci
+            title: Rynek nieruchomości
+          - file: Laboratoria/2/z2/Topologia
+            title: "Geometria z plasteliny: topologia"
+          - file: Laboratoria/2/z2/ZuzyciePradu
+            title: Prognozowanie zużycia prądu
+      - file: Laboratoria/2/r2
+        title: Rozwiązania wzorcowe
+        sections:
+          - file: Laboratoria/2/r2/EKG_rozwiazane
+            title: "Cyfrowe badanie serca: EKG"
+          - file: Laboratoria/2/r2/GradientDescent_rozwiazane
+            title: Spadek gradientu
+          - file: Laboratoria/2/r2/RegresjaLogistyczna_Backpropagation_rozwiazane
+            title: Budowa sztucznej inteligencji
+          - file: Laboratoria/2/r2/RynekNieruchomosci_rozwiazane
+            title: Rynek nieruchomości
+          - file: Laboratoria/2/r2/Topologia_rozwiazane
+            title: "Geometria z plasteliny: topologia"
+          - file: Laboratoria/2/r2/ZuzyciePradu_rozwiazane
+            title: Prognozowanie zużycia prądu

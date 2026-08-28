@@ -1,0 +1,14 @@
+title: "Analiza matematyczna: zbiór zadań programistycznych w języku Python komplementarny do przedmiotu Analiza matematyczna dla kierunku Sztuczna Inteligencja w Analizie Danych (eISBN: 978-83-983017-2-5)"
+author: Agnieszka Hejnalyzwa
+logo: ""
+html_extra_path:
+  - kod_qr_9788398301725.pdf
+execute:
+  execute_notebooks: off
+html:
+  home_page_in_navbar: true
+  use_issues_button: false
+  use_repository_button: false
+  use_download_button: true
+  extra_css:
+    - custom.css
